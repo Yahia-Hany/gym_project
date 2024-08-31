@@ -1,7 +1,13 @@
 p{
     color: brown;
+    font-size: large;
 
 }
+h1
+{
+    color: brown;
+}
 body{
-    background-color:aqua;
+    font-size: medium;
+    background-color:chocolate;
 }
